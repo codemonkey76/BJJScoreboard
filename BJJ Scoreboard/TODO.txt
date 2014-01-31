@@ -1,0 +1,27 @@
+﻿frmScorePanel  //LCD Score Panel
+	Add medical lights
+	Add Lute time
+	Add flashing : to time.
+
+frmControlPanel //User Controlled Interface
+	Viewable action list to see action history
+
+frmSettings //Settings Dialog
+	Contest Mode:
+		lute time: 00:20
+		round time: 05:00
+		auto penalty: yes / no
+	Training Mode:
+		warm up time: 00:30
+		work time: 05:00
+		warning time: 00:15
+		rest time: 01:00
+		number of rounds: 10
+
+General
+	Flesh out training mode
+		Use lute timer as resting time
+		Use main timer as round time
+		Use one of the points / adv digits for number of rounds.
+
+	

@@ -1,0 +1,96 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BJJA.Scoreboard.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="whiteScoreOn" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Red</Value>
+    </Setting>
+    <Setting Name="whiteScoreOff" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">50, 0, 0</Value>
+    </Setting>
+    <Setting Name="whiteScoreBg" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+    <Setting Name="whiteAdvOn" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Yellow</Value>
+    </Setting>
+    <Setting Name="whiteAdvOff" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">50, 50, 0</Value>
+    </Setting>
+    <Setting Name="whiteAdvBg" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+    <Setting Name="whitePenOn" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Red</Value>
+    </Setting>
+    <Setting Name="whitePenOff" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">50, 0, 0</Value>
+    </Setting>
+    <Setting Name="whitePenBg" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+    <Setting Name="blueScoreOn" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Red</Value>
+    </Setting>
+    <Setting Name="blueScoreOff" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">50, 0, 0</Value>
+    </Setting>
+    <Setting Name="blueScoreBg" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+    <Setting Name="blueAdvOn" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Yellow</Value>
+    </Setting>
+    <Setting Name="blueAdvOff" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">50, 50, 0</Value>
+    </Setting>
+    <Setting Name="blueAdvBg" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+    <Setting Name="bluePenOn" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Red</Value>
+    </Setting>
+    <Setting Name="bluePenOff" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">50, 0, 0</Value>
+    </Setting>
+    <Setting Name="bluePenBg" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+    <Setting Name="timeOn" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Lime</Value>
+    </Setting>
+    <Setting Name="timeOff" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">0, 50, 0</Value>
+    </Setting>
+    <Setting Name="timeBg" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+    <Setting Name="luteOn" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Lime</Value>
+    </Setting>
+    <Setting Name="luteOff" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">0, 50, 0</Value>
+    </Setting>
+    <Setting Name="luteBg" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+    <Setting Name="whiteMedicalOn" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Red</Value>
+    </Setting>
+    <Setting Name="whiteMedicalOff" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">50, 0, 0</Value>
+    </Setting>
+    <Setting Name="whiteMedicalBg" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+    <Setting Name="blueMedicalOn" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Red</Value>
+    </Setting>
+    <Setting Name="blueMedicalOff" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">50, 0, 0</Value>
+    </Setting>
+    <Setting Name="blueMedicalBg" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
